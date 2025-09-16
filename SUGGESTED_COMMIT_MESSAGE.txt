@@ -1,4 +1,4 @@
-# chore(repo): bootstrap do projeto — estrutura, README-hub, scripts de badges, CITATION.cff e LICENSE MIT
+chore(repo): bootstrap do projeto — estrutura, README-hub, scripts de badges, CITATION.cff e LICENSE MIT
 
 - Alinhado ao padrão acadêmico do UniCEUB (Campus Asa Norte)
 
