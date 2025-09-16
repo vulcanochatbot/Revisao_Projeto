@@ -1,0 +1,1 @@
+feat: seed do repositório baseado no template TCC II (PUC Minas) — estrutura, README hub, CITATION.cff e licença MIT
