@@ -10,6 +10,5 @@
 
 - **Pouca rastreabilidade de qualidade** → difícil recontratar bem.
 
----
 
 > Ver: [evidências](./evidencias_problema_sociedade.md) e [diagnóstico](./diagnostico_problema_sociedade.md).
