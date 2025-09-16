@@ -1,7 +1,5 @@
 # 03 — Análise revisada do problema social
 
---- 
-
 - **Informalidade e baixa visibilidade** → pouco histórico padronizado.  
 
 - **Canais fragmentados** (indicação, grupos) → triagem lenta e enviesada.  
