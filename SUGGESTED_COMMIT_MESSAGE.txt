@@ -1,7 +1,11 @@
-chore(repo): bootstrap do projeto — estrutura, README-hub, scripts de badges, CITATION.cff e LICENSE MIT
+# chore(repo): bootstrap do projeto — estrutura, README-hub, scripts de badges, CITATION.cff e LICENSE MIT
 
 - Alinhado ao padrão acadêmico do UniCEUB (Campus Asa Norte)
+
 - Cria pastas: BIBLIOTECA/, CERTIFICADOS/, ESPECIFICACOES/, RESOLUCAO/, TEMPLATES/, TUTORIAIS/ e scripts/
+
 - Adiciona documentos: visão, 5W2H, personas/jornadas, diretrizes, KPIs, riscos e PGP
+
 - Organiza navegação por links e padrão de nomes (01_, 02_…)
+
 - Escopo acadêmico: sem implementação nesta fase
