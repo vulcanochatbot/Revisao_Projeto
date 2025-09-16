@@ -1,16 +1,18 @@
 cff-version: 1.0.1
-message: Please cite this software using these metadata.
-title: {{NOME_DO_PROJETO}}
+message: "Please cite this work as:"
+title: "Vulcano ChatBot — Projeto Integrador (CEUB)"
 authors:
-  - family-names: {{SOBRENOME1}}
-    given-names: {{NOME1}}
-  - family-names: {{SOBRENOME2}}
-    given-names: {{NOME2}}
+  - given-names: "João"
+    family-names: "César"
+  - given-names: "João"
+    family-names: "Vítor"
+  - given-names: "Carlos"
+    family-names: "Eduardo"
 keywords:
-  - {{KW1}}
-  - {{KW2}}
-  - {{KW3}}
-repository-code: https://github.com/{{USER}}/{{REPO}}
-license: MIT
-version: 0.1.0
-date-released: {{AAAA-MM-DD}}
+  - "construção civil"
+  - "contratação"
+  - "chatbot"
+repository-code: "https://github.com/{{USER}}/{{REPO}}"
+license: "MIT"
+version: "0.1.0"
+date-released: "2025-09-16"
