@@ -1,4 +1,4 @@
-# Plano de Curadoria — Lote 1 (8 commits recebidos)
+# Plano de Gestão de Conteúdo — Lote 1 
 
 > Duplicação identificada em **Commit 6** (Evidências) — consolidado em um único arquivo.
 
