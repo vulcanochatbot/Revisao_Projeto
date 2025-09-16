@@ -1,23 +1,28 @@
 # Evidências do problema — contratação na construção civil (Brasil)
 
-## 1) Informalidade e baixa visibilidade
+## 1) Informalidade e baixa visibilidade:
+
 A construção civil apresenta informalidade elevada, acima da média do mercado de trabalho. Isso reduz vínculos formais, registro de competências e histórico verificável.
 
-## 2) Desencontro de perfis e prazos estourados
+## 2) Desencontro de perfis e prazos estourados:
+
 Empresas relatam dificuldade para contratar profissionais qualificados, o que encarece e atrasa obras.
 
-## 3) Canais de contratação fragmentados
+## 3) Canais de contratação fragmentados:
+
 Processo baseado em indicações, grupos informais e contatos dispersos. Falta funil único com triagem, retorno e memória de contratações.
 
-## 4) Barreiras de letramento digital e acesso móvel
+## 4) Barreiras de letramento digital e acesso móvel:
+
 Grande parcela acessa a Internet apenas via smartphone; preferência por áudio e foto, dificuldade com formulários longos e e-mail.
 
-## 5) Efeitos práticos
+## 5) Efeitos práticos:
+
 Triagem lenta, vieses de indicação, no-show, retrabalho, pouca rastreabilidade de qualidade/segurança e custos maiores.
 
 ---
 
-## Indicadores sugeridos
+## Indicadores sugeridos:
 
 - Tempo até preencher a vaga (h/d)  
 
@@ -33,7 +38,7 @@ Triagem lenta, vieses de indicação, no-show, retrabalho, pouca rastreabilidade
 
 ---
 
-## Referências (base utilizadas na síntese)
+## Referências (base utilizadas na síntese):
 
 - IBGE / PNAD Contínua – informalidade e estrutura do mercado de trabalho  
 
