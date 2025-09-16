@@ -1,11 +1,21 @@
-# Guia Rápido: CITATION.cff
-
-- Use `cff-version: 1.0.1`.
-- Preencha `title` claro e sem siglas internas.
-- Autores com `given-names` e `family-names` completos.
-- `license: MIT` (ou ajuste conforme o projeto).
-- `version` e `date-released` (AAAA-MM-DD).
-- `repository-code` com URL exata do GitHub.
+cff-version: 1.0.1
+message: "Please cite this work as:"
+title: "Vulcano ChatBot — Projeto Integrador (CEUB)"
+authors:
+  - given-names: "João"
+    family-names: "César"
+  - given-names: "João"
+    family-names: "Vítor"
+  - given-names: "Carlos"
+    family-names: "Eduardo"
+keywords:
+  - "construção civil"
+  - "contratação"
+  - "chatbot"
+repository-code: "https://github.com/<owner>/<repo>"
+license: "MIT"
+version: "0.1.0"
+date-released: "2025-09-16"
 
 Ferramentas úteis:
 - Validador: https://citation-file-format.github.io/
