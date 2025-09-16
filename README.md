@@ -20,8 +20,6 @@ Reduzir atrito na ponta: **dados mínimos comparáveis**, inclusão de quem se c
 8. [Escopo, MVP & Não-escopo](#sec-escopo)  
 9. [Equipe & Papéis](#sec-equipe)
 
-> Dica: os itens 1, 3, 4 e 5 também linkam para arquivos já presentes no repositório.
-
 ---
 
 <a id="sec-biblioteca"></a>
