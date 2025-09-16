@@ -1,11 +1,11 @@
 # 🔥 Vulcano ChatBot — Projeto Integrador (CEUB)
 
-> **Descrição curta:** Projeto acadêmico que investiga por que a contratação na construção civil emperra (informalidade, informação solta e baixo letramento digital) e organiza um plano de solução inclusivo, padronizado e mensurável. Foco em **diagnóstico e documentação**; sem implementação nesta fase.
+- Projeto acadêmico que investiga por que a contratação na construção civil emperra (informalidade, informação solta e baixo letramento digital) e organiza um plano de solução inclusivo, padronizado e mensurável. Foco em **diagnóstico e documentação**; sem implementação nesta fase.
 
 ---
 
 ## 🪙 Pitch de valor
-Reduzir atrito na ponta: **dados mínimos comparáveis**, inclusão de quem se comunica por **voz/foto**, **filtros justos** e **histórico** para recontratar bem. Resultado esperado: **menos atraso, menos retrabalho e decisões menos enviesadas**.
+- Reduzir atrito na ponta: **dados mínimos comparáveis**, inclusão de quem se comunica por **voz/foto**, **filtros justos** e **histórico** para recontratar bem. Resultado esperado: **menos atraso, menos retrabalho e decisões menos enviesadas**.
 
 ---
 
@@ -27,20 +27,21 @@ Reduzir atrito na ponta: **dados mínimos comparáveis**, inclusão de quem se c
 - **Evidências do problema:** [evidencias_problema_sociedade.md](./evidencias_problema_sociedade.md)  
 - **Diagnóstico (síntese):** [diagnostico_problema_sociedade.md](./diagnostico_problema_sociedade.md)
 
-Conteúdo: panorama de informalidade, canais fragmentados de contratação, barreiras de letramento digital e efeitos em prazo/custo/qualidade.
+### Conteúdo: panorama de informalidade, canais fragmentados de contratação, barreiras de letramento digital e efeitos em prazo/custo/qualidade.
 
 ---
 
 <a id="sec-problema"></a>
 ## 2. Problema social — síntese
-A contratação no setor é **dispersa e pouco rastreável**: informações chegam por indicações e mensagens avulsas; há **baixa padronização** (função, experiência, região, disponibilidade, diária) e **dificuldade de uso de formulários** por parte de quem acessa só o celular. Isso gera **demora, no-show, retrabalho** e pouca memória para recontratar quem performou bem.
+- A contratação no setor é **dispersa e pouco rastreável**: informações chegam por indicações e mensagens avulsas; há **baixa padronização** (função, experiência, região, disponibilidade, diária) e **dificuldade de uso de formulários** por parte de quem acessa só o celular. Isso gera **demora, no-show, retrabalho** e pouca memória para recontratar quem performou bem.
 
 ---
 
 <a id="sec-5w2h"></a>
 ## 3. 5W2H do problema
 Documento completo: [05_5w2h_problema_social.md](./05_5w2h_problema_social.md)  
-Resumo: **o quê** (dificuldade estrutural de encontrar/triar/contratar), **por quê** (informalidade, dados soltos, letramento limitado), **onde** (obras privadas/públicas no Brasil), **quando** (mobilização, picos e trocas), **quem** (trabalhadores, RH/encarregado, empreiteiros), **como** (indicação e triagem manual) e **quanto** (indicadores de tempo, no-show, retrabalho etc.).
+
+- Resumo: **o quê** (dificuldade estrutural de encontrar/triar/contratar), **por quê** (informalidade, dados soltos, letramento limitado), **onde** (obras privadas/públicas no Brasil), **quando** (mobilização, picos e trocas), **quem** (trabalhadores, RH/encarregado, empreiteiros), **como** (indicação e triagem manual) e **quanto** (indicadores de tempo, no-show, retrabalho etc.).
 
 ---
 
@@ -48,7 +49,7 @@ Resumo: **o quê** (dificuldade estrutural de encontrar/triar/contratar), **por 
 ## 4. Personas & Jornada (AS-IS → TO-BE)
 - **Arquivo:** [02_personas_jornada.md](./02_personas_jornada.md)
 
-Foco em três atores: **Trabalhador**, **Encarregado/RH** e **Pequeno empreiteiro**.  
+### Foco em três atores: **Trabalhador**, **Encarregado/RH** e **Pequeno empreiteiro**.  
 Desejo comum: **cadastro simples**, **comparação justa** por proximidade/experiência e **confirmação clara** com **registro** para recontratação.
 
 ---
@@ -57,7 +58,7 @@ Desejo comum: **cadastro simples**, **comparação justa** por proximidade/exper
 ## 5. Diretrizes de solução
 - **Arquivo:** [04_diretrizes_solucao.md](./04_diretrizes_solucao.md)
 
-Eixos: **cadastro mínimo padronizado**, **fluxos que aceitam voz/foto**, **filtros e ranking transparentes**, **geolocalização/agenda**, **histórico e verificação progressiva**, **linguagem simples** e **LGPD**.
+### Eixos: **cadastro mínimo padronizado**, **fluxos que aceitam voz/foto**, **filtros e ranking transparentes**, **geolocalização/agenda**, **histórico e verificação progressiva**, **linguagem simples** e **LGPD**.
 
 ---
 
@@ -77,7 +78,7 @@ Base de avaliação do impacto:
 
 <a id="sec-riscos"></a>
 ## 7. Riscos, mitigação & LGPD
-Riscos mapeados: **escopo inflado**, **prazos curtos**, **evidência fraca/viesada**, **baixa adesão a entrevistas**, **privacidade**.  
+###Riscos mapeados: **escopo inflado**, **prazos curtos**, **evidência fraca/viesada**, **baixa adesão a entrevistas**, **privacidade**.  
 Mitigações: **MoSCoW + time-box**, **checkpoints**, **fontes diversas e premissas registradas**, **roteiro curto com consentimento**, **minimização de dados/anonimização/linguagem clara**.  
 - Complementos: [PLANO_CURADORIA_LOTE1.md](./PLANO_CURADORIA_LOTE1.md) • [CONTRIBUTING.md](./CONTRIBUTING.md) • [LICENSE](./LICENSE) • [CITATION_GUIDE.md](./CITATION_GUIDE.md) • [CITATION.cff](./CITATION.cff)
 
@@ -88,8 +89,9 @@ Mitigações: **MoSCoW + time-box**, **checkpoints**, **fontes diversas e premis
 - **Visão geral:** [02_visao_geral_vulcano.md](./02_visao_geral_vulcano.md)  
 - **Análise revisada:** [03_analise_revisada.md](./03_analise_revisada.md)
 
-**MVP (fase conceitual):** fluxo **documentado** de triagem padronizada, inclusão por voz/foto, filtros de comparação, confirmação e registro + KPIs de acompanhamento.  
-**Não-escopo:** implementação técnica, integrações reais e operação piloto nesta disciplina.
+### **MVP (fase conceitual):** fluxo **documentado** de triagem padronizada, inclusão por voz/foto, filtros de comparação, confirmação e registro + KPIs de acompanhamento.  
+
+### **Não-escopo:** implementação técnica, integrações reais e operação piloto nesta disciplina.
 
 ---
 
@@ -106,5 +108,6 @@ Mitigações: **MoSCoW + time-box**, **checkpoints**, **fontes diversas e premis
 ## Extras úteis
 - Mensagem de commit sugerida:  
   `docs: README organizado (sumário, visão, 5W2H, personas, diretrizes, KPIs, riscos, escopo e equipe)`  
+
 - Arquivos auxiliares:  
   [01_mapa_da_empatia.md](./01_mapa_da_empatia.md) • [PGP.md](./PGP.md) • [SUGGESTED_COMMIT_MESSAGE.txt](./SUGGESTED_COMMIT_MESSAGE.txt)
