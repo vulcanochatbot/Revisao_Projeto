@@ -1,6 +1,6 @@
 # 02 — Personas & Jornada (AS-IS → TO-BE)
 
-**Persona A — Trabalhador de obra (operacional)**  
+**Persona A — Trabalhador de obra (operacional):**  
 
 AS-IS: vive de indicações; guarda fotos no celular; dificuldade com leitura/escrita e formulários; perde oportunidades fora da própria rede.  
 
