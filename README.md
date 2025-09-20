@@ -106,9 +106,10 @@ Mitigações: **MoSCoW + time-box**, **checkpoints**, **fontes diversas e premis
 ---
 
 ## 10. Requisitos
-# Requisitos — Vulcano ChatBot
 
-Este arquivo lista requisitos derivados do **problema social** na contratação da construção civil (informalidade, assimetria de informação, exclusão digital, riscos EHS e desigualdade de acesso).
+### Requisitos — Vulcano ChatBot
+
+- Este arquivo lista requisitos derivados do **problema social** na contratação da construção civil (informalidade, assimetria de informação, exclusão digital, riscos EHS e desigualdade de acesso).
 
 - **Requisitos Funcionais (RF)**: onboarding com consentimento LGPD; cadastro mínimo padronizado; entrada por voz/foto; publicar demanda padronizada; triagem cega; filtros por proximidade/experiência/NR; justificativa do ranking; convite/aceite com SLA; lembretes; pré-checagem de NR; avaliação mútua; histórico recontratável; verificação progressiva (selos); FAQ/busca; direitos do titular; reenvio automático; relatórios/KPIs.
 
