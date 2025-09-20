@@ -105,6 +105,20 @@ Mitigações: **MoSCoW + time-box**, **checkpoints**, **fontes diversas e premis
 
 ---
 
+## 10. Requisitos
+# Requisitos — Vulcano ChatBot
+
+Este arquivo lista requisitos derivados do **problema social** na contratação da construção civil (informalidade, assimetria de informação, exclusão digital, riscos EHS e desigualdade de acesso).
+
+- **Requisitos Funcionais (RF)**: onboarding com consentimento LGPD; cadastro mínimo padronizado; entrada por voz/foto; publicar demanda padronizada; triagem cega; filtros por proximidade/experiência/NR; justificativa do ranking; convite/aceite com SLA; lembretes; pré-checagem de NR; avaliação mútua; histórico recontratável; verificação progressiva (selos); FAQ/busca; direitos do titular; reenvio automático; relatórios/KPIs.
+
+- **Requisitos Não Funcionais (RNF)**: latência p95 ≤2s; busca/match p95 ≤5s; disponibilidade ≥99,0%; retomada ≤1min; fluxo em ≤5 passos e linguagem simples; acessibilidade prática (voz/foto, WCAG espírito); criptografia; minimização & logs auditáveis; exclusão ≤7 dias; auditoria de decisões; escalabilidade (MVP); compatibilidade móvel; MTTR ≤30min; portabilidade (CSV/JSON).
+
+> Detalhamento e racional socio-técnico: **[Explicação](./EXPLICACAO.md)**
+
+
+---
+
 ## Extras úteis
 - Mensagem de commit sugerida:  
   `docs: README organizado (sumário, visão, 5W2H, personas, diretrizes, KPIs, riscos, escopo e equipe)`  
