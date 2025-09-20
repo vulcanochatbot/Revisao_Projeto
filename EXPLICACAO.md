@@ -1,5 +1,3 @@
----
-
 # Requisitos Funcionais (RF):
 
 - ### RF-001 — Onboarding com consentimento LGPD (MUST)
