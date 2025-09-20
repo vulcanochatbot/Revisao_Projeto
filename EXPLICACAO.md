@@ -167,3 +167,7 @@ Critério: restaurar em ≤30 min.
 - ### RNF-014 — Portabilidade de dados (COULD)
 Solução: evitar lock-in e permitir transparência.
 Critério: exportar CSV/JSON anonimizado de entidades-chave.
+
+---
+
+Explicação dos detalhes **[MUST/SHOULD](./MUST/SHOULD.md)**
