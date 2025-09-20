@@ -170,4 +170,4 @@ Critério: exportar CSV/JSON anonimizado de entidades-chave.
 
 ---
 
-Explicação dos detalhes **[MUST/SHOULD](./MUST/SHOULD.md)**
+Explicação dos detalhes: **[MUST/SHOULD](./DETALHES.md)**
