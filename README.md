@@ -115,7 +115,7 @@ Mitigações: **MoSCoW + time-box**, **checkpoints**, **fontes diversas e premis
 
 - **Requisitos Não Funcionais (RNF)**: latência p95 ≤2s; busca/match p95 ≤5s; disponibilidade ≥99,0%; retomada ≤1min; fluxo em ≤5 passos e linguagem simples; acessibilidade prática (voz/foto, WCAG espírito); criptografia; minimização & logs auditáveis; exclusão ≤7 dias; auditoria de decisões; escalabilidade (MVP); compatibilidade móvel; MTTR ≤30min; portabilidade (CSV/JSON).
 
-> Detalhamento e racional socio-técnico: **[Explicação](./EXPLICACAO.md)**
+Detalhamento e racional socio-técnico: **[Explicação](./EXPLICACAO.md)**
 
 
 ---
