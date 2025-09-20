@@ -1,8 +1,6 @@
 ---
 
-# Requisitos Funcionais (RF)
-
----
+# Requisitos Funcionais (RF):
 
 - ### RF-001 — Onboarding com consentimento LGPD (MUST)
 Problema social: informalidade e desconfiança no uso de dados.
@@ -114,9 +112,7 @@ Meta: atualização diária com séries por obra/região.
 
 ---
 
-# Requisitos Não Funcionais (RNF) — explicitando a solução protegida
-
----
+# Requisitos Não Funcionais (RNF) — explicitando a solução protegida:
 
 - ### RNF-001 — Latência conversacional (MUST)
 Solução: agilidade reduz transtornos de quem depende do celular no dia a dia.
