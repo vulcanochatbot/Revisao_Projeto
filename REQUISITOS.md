@@ -7,7 +7,7 @@
 - [Requisitos Não Funcionais (RNF)](#requisitos-não-funcionais-rnf)
 - [Outros artefatos](#outros-artefatos)
 
-## Requisitos Funcionais (RF) — MoSCoW + Gherkin
+## Requisitos Funcionais (RF)
 
 **RF-001 — Onboarding com consentimento LGPD (Must)**  
 Problema social: informalidade/desconfiança no uso de dados.  
@@ -101,7 +101,7 @@ Problema social: falta de evidência para corrigir práticas.
 Gherkin: Given período, When consolidar, Then exibir KPIs agregados/anonimizados.  
 Meta: atualização diária (tempo/no-show/recontratação/paridade/EHS).
 
-## Requisitos Não Funcionais (RNF) — mensuráveis
+## Requisitos Não Funcionais (RNF)
 
 - **RNF-001 — Latência conversacional (Must):** p95 ≤2s em 300 conversas; protege RF-002/004/007/009.  
 - **RNF-002 — Busca/Match (Must):** p95 ≤5s até ~5k perfis; protege RF-007/008.  
