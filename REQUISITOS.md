@@ -13,7 +13,7 @@
 
 - Problema social: informalidade/desconfiança no uso de dados.  
 
-- Gherkin: Given novo usuário, When iniciar cadastro, Then exibir termo e gravar aceite (data/hora/canal).  
+-Gherkin: Given novo usuário, When iniciar cadastro, Then exibir termo e gravar aceite (data/hora/canal).  
 
 - Meta: 100% perfis com consentimento.
 
