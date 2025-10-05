@@ -6,7 +6,7 @@
 - [Requisitos Funcionais (RF)](#requisitos-funcionais-rf)
 - [Requisitos Não Funcionais (RNF)](#requisitos-não-funcionais-rnf)
 
-## Requisitos Funcionais (RF)
+## Requisitos Funcionais (RF):
 
 ### **RF-001 — Onboarding com consentimento LGPD (Must)**  
 
@@ -156,7 +156,7 @@
 
 - Meta: atualização diária (tempo/no-show/recontratação/paridade/EHS).
 
-## Requisitos Não Funcionais (RNF)
+## Requisitos Não Funcionais (RNF):
 
 - **RNF-001 — Latência conversacional (Must):** p95 ≤2s em 300 conversas; protege RF-002/004/007/009.  
 
