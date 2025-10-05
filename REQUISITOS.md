@@ -5,7 +5,6 @@
 ## Sumário
 - [Requisitos Funcionais (RF)](#requisitos-funcionais-rf)
 - [Requisitos Não Funcionais (RNF)](#requisitos-não-funcionais-rnf)
-- [Outros artefatos](#outros-artefatos)
 
 ## Requisitos Funcionais (RF)
 
@@ -160,20 +159,29 @@
 ## Requisitos Não Funcionais (RNF)
 
 - **RNF-001 — Latência conversacional (Must):** p95 ≤2s em 300 conversas; protege RF-002/004/007/009.  
-- **RNF-002 — Busca/Match (Must):** p95 ≤5s até ~5k perfis; protege RF-007/008.  
-- **RNF-003 — Disponibilidade (Should):** uptime mensal ≥99,0%; previsibilidade para rotina de obra.  
-- **RNF-004 — Retomada (Should):** retomada de sessão ≤1 min; protege RF-005/017.  
-- **RNF-005 — Fluxos curtos (Must):** cadastro mínimo em ≤5 passos; linguagem A2–B1; protege RF-002.  
-- **RNF-006 — Acessibilidade (Should):** aceitar voz/foto; leitura fácil; espírito WCAG 2.2 AA; protege RF-003.  
-- **RNF-007 — Criptografia (Must):** tráfego + dados sensíveis cifrados; protege RF-001/016.  
-- **RNF-008 — Minimização & logs (Must):** só o necessário; logs auditáveis; protege RF-001/016/018.  
-- **RNF-009 — Exclusão de dados (Must):** pedidos concluídos ≤7 dias; protege RF-016.  
-- **RNF-010 — Auditoria do matching (Must):** 100% decisões com trilhas de critérios; protege RF-007/008/018.  
-- **RNF-011 — Escalabilidade (Should):** ≥500 conversas simultâneas (MVP).  
-- **RNF-012 — Compatibilidade móvel (Should):** sucesso ≥95% em smartphones populares.  
-- **RNF-013 — MTTR (Should):** restaurar serviço ≤30 min.  
-- **RNF-014 — Portabilidade (Could):** exportar CSV/JSON anonimizado de entidades-chave.
 
-## Outros artefatos
-- Diretrizes, KPIs e salvaguardas: [../04_diretrizes_solucao.md](../04_diretrizes_solucao.md)  
-- 5W2H: [../05_5w2h_problema_social.md](../05_5w2h_problema_social.md)
+- **RNF-002 — Busca/Match (Must):** p95 ≤5s até ~5k perfis; protege RF-007/008.  
+
+- **RNF-003 — Disponibilidade (Should):** uptime mensal ≥99,0%; previsibilidade para rotina de obra.  
+
+- **RNF-004 — Retomada (Should):** retomada de sessão ≤1 min; protege RF-005/017.  
+
+- **RNF-005 — Fluxos curtos (Must):** cadastro mínimo em ≤5 passos; linguagem A2–B1; protege RF-002.  
+
+- **RNF-006 — Acessibilidade (Should):** aceitar voz/foto; leitura fácil; espírito WCAG 2.2 AA; protege RF-003.  
+
+- **RNF-007 — Criptografia (Must):** tráfego + dados sensíveis cifrados; protege RF-001/016.  
+
+- **RNF-008 — Minimização & logs (Must):** só o necessário; logs auditáveis; protege RF-001/016/018.  
+
+- **RNF-009 — Exclusão de dados (Must):** pedidos concluídos ≤7 dias; protege RF-016.  
+
+- **RNF-010 — Auditoria do matching (Must):** 100% decisões com trilhas de critérios; protege RF-007/008/018.  
+
+- **RNF-011 — Escalabilidade (Should):** ≥500 conversas simultâneas (MVP).  
+
+- **RNF-012 — Compatibilidade móvel (Should):** sucesso ≥95% em smartphones populares.  
+
+- **RNF-013 — MTTR (Should):** restaurar serviço ≤30 min.  
+
+- **RNF-014 — Portabilidade (Could):** exportar CSV/JSON anonimizado de entidades-chave.
