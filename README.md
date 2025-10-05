@@ -117,6 +117,8 @@ Mitigações: **MoSCoW + time-box**, **checkpoints**, **fontes diversas e premis
 
 Detalhamento e racional socio-técnico: **[Explicação](./EXPLICACAO.md)**
 
+Requisitos Funcionais e Não Funcionais **[Requisitos](./REQUISITOS.md)**
+
 
 ---
 
